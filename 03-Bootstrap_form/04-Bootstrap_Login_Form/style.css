@@ -1,0 +1,28 @@
+body {
+background: linear-gradient(135deg, #667eea, #44e4ea);
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.login-card {
+width: 100%;
+max-width: 420px;
+border: none;
+border-radius: 20px;
+overflow: hidden;
+backdrop-filter: blur(10px);
+}
+.form-control {
+border-radius: 10px;
+padding: 12px;
+}
+.btn-login {
+border-radius: 10px;
+padding: 12px;
+font-weight: 600;
+}
+.logo {
+font-size: 3rem;
+color: #6f42c1;
+}
