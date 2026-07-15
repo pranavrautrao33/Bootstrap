@@ -40,7 +40,7 @@
 }
 
 .footer ul li a:hover{
-    color:#ffc107;
+    color:hsl(52, 100%, 51%);
     padding-left:8px;
 }
 
